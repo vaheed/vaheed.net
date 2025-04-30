@@ -32,6 +32,3 @@ To check or re-enable it:
 - Your site will be published automatically!
 
 ---
-
-> ✨ Feel free to fork or clone this if you're building your own static site from WordPress.
-```
